@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Members on IVP | Peking University</title>
+    <title>Members on MMCAL | Peking University</title>
     <link>https://pkummcal.github.io/member/</link>
-    <description>Recent content in Members on IVP | Peking University</description>
+    <description>Recent content in Members on MMCAL | Peking University</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; Immersive Video Perception Group, Peking University, 2020 </copyright>
+    <copyright>&amp;copy; Multimedia Computing and AI Lab, Peking University, 2025</copyright>
     <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
     <atom:link href="https://pkummcal.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bowen Qu, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/qubowen/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/qubowen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Changhao Peng, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/pengchanghao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/pengchanghao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chengwei Wang, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/wangchengwei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/wangchengwei/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chenhao Zhang, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/zhangchenhao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/zhangchenhao/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Dinghao Yang, MPhil Student</title>
       <link>https://pkummcal.github.io/member/yangdinghao/</link>
@@ -38,6 +66,20 @@
       <description></description>
     </item>
     <item>
+      <title>Haohui Li, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/lihaohui/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/lihaohui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haoruo Liu, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/liuhaoruo/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/liuhaoruo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Huiming Zheng, Phd Student</title>
       <link>https://pkummcal.github.io/member/zhenghuiming/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -52,10 +94,52 @@
       <description></description>
     </item>
     <item>
+      <title>Junhong Lin, PhD Student</title>
+      <link>https://pkummcal.github.io/member/linjunhong/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/linjunhong/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junlin Li, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/lijunlin/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/lijunlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kaiyu Zheng, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/zhengkaiyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/zhengkaiyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kangli Wang, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/wangkangli/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/wangkangli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liang Xie, PhD Student</title>
+      <link>https://pkummcal.github.io/member/sunshangkun/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/sunshangkun/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Liang Xie, PhD Student</title>
       <link>https://pkummcal.github.io/member/xieliang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       <guid>https://pkummcal.github.io/member/xieliang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linhui Wang, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/wanglinhui/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/wanglinhui/</guid>
       <description></description>
     </item>
     <item>
@@ -73,6 +157,27 @@
       <description></description>
     </item>
     <item>
+      <title>Qianxi Yi, PhD Student</title>
+      <link>https://pkummcal.github.io/member/yiqianxi/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/yiqianxi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shihao Li, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/lishihao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/lishihao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shuqing Luo, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/luoshuqing/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/luoshuqing/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Songlin Fan, MPhil Student</title>
       <link>https://pkummcal.github.io/member/fansonglin/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -87,11 +192,32 @@
       <description></description>
     </item>
     <item>
+      <title>Wei Cheng, PhD Student</title>
+      <link>https://pkummcal.github.io/member/chengwei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/chengwei/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Wei Gao, Assistant Professor</title>
       <link>https://pkummcal.github.io/member/gaowei/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       <guid>https://pkummcal.github.io/member/gaowei/</guid>
       <description>&lt;p&gt;Dr. Wei Gao is currently an Assistant Professor (Ph.D. Supervisor) with &lt;a href=&#34;http://www.ece.pku.edu.cn/&#34;&gt;the School of Electronic and Computer Engineering&lt;/a&gt;, &lt;a href=&#34;http://www.pku.edu.cn/&#34;&gt;Peking University (PKU)&lt;/a&gt;, Shenzhen, China. He is now leading the &lt;a href=&#34;https://pku-ivp.github.io/&#34;&gt;Immersive Video Perception (IVP) Group&lt;/a&gt;. He received the Ph.D. degree in Computer Science with &lt;a href=&#34;http://www.cs.cityu.edu.hk/&#34;&gt;the Department of Computer Science&lt;/a&gt;, &lt;a href=&#34;http://www.cityu.edu.hk/&#34;&gt;City University of Hong Kong (CityU)&lt;/a&gt;, Kowloon, Hong Kong. He was a Camera ISP Engineer at &lt;a href=&#34;http://www.ovt.com/&#34;&gt;OmniVision Technologies (OVTI)&lt;/a&gt;, Shanghai, China. He was a Visiting Scholar at &lt;a href=&#34;http://www.ee.ucla.edu/&#34;&gt;the Electrical Engineering Department&lt;/a&gt;, &lt;a href=&#34;http://www.ucla.edu/&#34;&gt;University of California, Los Angeles (UCLA)&lt;/a&gt;, CA, USA. He was a Postdoctoral Fellow and Research Associate at &lt;a href=&#34;http://www.cs.cityu.edu.hk/&#34;&gt;the Department of Computer Science&lt;/a&gt;, &lt;a href=&#34;http://www.cityu.edu.hk/&#34;&gt;City University of Hong Kong (CityU)&lt;/a&gt;, Kowloon, Hong Kong, and a Research Fellow at &lt;a href=&#34;http://www.eee.ntu.edu.sg/&#34;&gt;the School of Electrical and Electronic Engineering&lt;/a&gt;, &lt;a href=&#34;https://www.ntu.edu.sg/&#34;&gt;Nanyang Technological University (NTU)&lt;/a&gt;, Singapore, respectively. His research interests include &lt;em&gt;&lt;strong&gt;perceptual image/video/point cloud coding&lt;/strong&gt;&lt;/em&gt; (e.g., information theory and interpretable neural network for compression with emphasis on human and machine vision perception), &lt;em&gt;&lt;strong&gt;image/video/point cloud restoration&lt;/strong&gt;&lt;/em&gt; (e.g., inverse problem in mathematics and advanced models), and &lt;em&gt;&lt;strong&gt;salient/3D object detection&lt;/strong&gt;&lt;/em&gt; (e.g., visual attention and perception with emphasis on physiology and psychology), etc. Moreover, pure theoretical research on applied mathematics and optimization, visual perception, aritifical intelligence and practical information systems are also very interesting. He believes that: &lt;em&gt;&lt;strong&gt;good innovations should have good explainable theories&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wenxu Gao, PhD Student</title>
+      <link>https://pkummcal.github.io/member/gaowenxu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/gaowenxu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xiaoyu Liang, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/liangxiaoyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/liangxiaoyu/</guid>
+      <description></description>
     </item>
     <item>
       <title>Xiaoyu Zhang, MPhil Student</title>
@@ -108,6 +234,13 @@
       <description></description>
     </item>
     <item>
+      <title>Xingming Mou, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/mouxingming/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/mouxingming/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Yang Guo, MPhil Student</title>
       <link>https://pkummcal.github.io/member/guoyang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -115,10 +248,38 @@
       <description></description>
     </item>
     <item>
+      <title>Yang Wang, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/wangyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/wangyang/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Yangfan Sun, Visiting Student</title>
       <link>https://pkummcal.github.io/member/sunyangfan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       <guid>https://pkummcal.github.io/member/sunyangfan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yao Li, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/liyao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/liyao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuan Li, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/liyuan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/liyuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuqi Ye, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/yeyuqi/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/yeyuqi/</guid>
       <description></description>
     </item>
     <item>
@@ -147,6 +308,20 @@
       <link>https://pkummcal.github.io/member/qizhiyang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       <guid>https://pkummcal.github.io/member/qizhiyang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zhuozhen Yu, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/yuzhuozhen/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/yuzhuozhen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zijian Zhang, MPhil Student</title>
+      <link>https://pkummcal.github.io/member/zhangzijian/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkummcal.github.io/member/zhangzijian/</guid>
       <description></description>
     </item>
     <item>
