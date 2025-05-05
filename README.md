@@ -1,4 +1,4 @@
-# pku-ivp.github.io
+# pkummcal.github.io
 
-The academic website for the Immersive Video Perception Group, Peking University
+The academic website for the Multimedia Computing and AI Lab (MMCAL), Peking University
 
