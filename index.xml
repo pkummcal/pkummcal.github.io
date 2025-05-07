@@ -2,781 +2,781 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MMCAL | Peking University</title>
-    <link>http://localhost:1313/</link>
+    <link>https://pkummcal.github.io/</link>
     <description>Recent content on MMCAL | Peking University</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; Multimedia Computing and AI Lab, Peking University, 2025</copyright>
     <lastBuildDate>Fri, 30 Jul 2021 16:37:31 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pkummcal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Efficient Rate Control Algorithm for Intra Frame Coding in AVS3</title>
-      <link>http://localhost:1313/publication/efficient-rate-control/</link>
+      <link>https://pkummcal.github.io/publication/efficient-rate-control/</link>
       <pubDate>Fri, 30 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/efficient-rate-control/</guid>
+      <guid>https://pkummcal.github.io/publication/efficient-rate-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Efficient Channel Pruning Based on Architecture Alignment and Probability Model Bypassing</title>
-      <link>http://localhost:1313/publication/efficient-channel-pruning/</link>
+      <link>https://pkummcal.github.io/publication/efficient-channel-pruning/</link>
       <pubDate>Fri, 30 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/efficient-channel-pruning/</guid>
+      <guid>https://pkummcal.github.io/publication/efficient-channel-pruning/</guid>
       <description></description>
     </item>
     <item>
       <title>New Awards</title>
-      <link>http://localhost:1313/post/2021-07-26/</link>
+      <link>https://pkummcal.github.io/post/2021-07-26/</link>
       <pubDate>Mon, 26 Jul 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-07-26/</guid>
+      <guid>https://pkummcal.github.io/post/2021-07-26/</guid>
       <description>&lt;p&gt;Dr. Wei Gao has received ICME 2021 Multimedia Rising Star (Runner Up Award) for Outstanding Early-stage Career Achievements in the Area of 3D Immersive Media Research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space</title>
-      <link>http://localhost:1313/publication/two-branch-dnn/</link>
+      <link>https://pkummcal.github.io/publication/two-branch-dnn/</link>
       <pubDate>Mon, 26 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/two-branch-dnn/</guid>
+      <guid>https://pkummcal.github.io/publication/two-branch-dnn/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-07-25/</link>
+      <link>https://pkummcal.github.io/post/2021-07-25/</link>
       <pubDate>Sun, 25 Jul 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-07-25/</guid>
-      <description>&lt;p&gt;A paper is  accepted to ACM Multimedia 2021. View the detail: &lt;a href=&#34;http://localhost:1313/publication/information-growth-attention-network&#34;&gt;Information-Growth Attention Network for Image Super-Resolution&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-07-25/</guid>
+      <description>&lt;p&gt;A paper is  accepted to ACM Multimedia 2021. View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/information-growth-attention-network&#34;&gt;Information-Growth Attention Network for Image Super-Resolution&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-07-24/</link>
+      <link>https://pkummcal.github.io/post/2021-07-24/</link>
       <pubDate>Sat, 24 Jul 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-07-24/</guid>
-      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: &lt;a href=&#34;http://localhost:1313/publication/layer-wise-geometry&#34;&gt;Layer-Wise Geometry Aggregation Framework for Lossless LiDAR Point Cloud Compression&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-07-24/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/layer-wise-geometry&#34;&gt;Layer-Wise Geometry Aggregation Framework for Lossless LiDAR Point Cloud Compression&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Layer-Wise Geometry Aggregation Framework for Lossless LiDAR Point Cloud Compression</title>
-      <link>http://localhost:1313/publication/layer-wise-geometry/</link>
+      <link>https://pkummcal.github.io/publication/layer-wise-geometry/</link>
       <pubDate>Wed, 21 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/layer-wise-geometry/</guid>
+      <guid>https://pkummcal.github.io/publication/layer-wise-geometry/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-07-05/</link>
+      <link>https://pkummcal.github.io/post/2021-07-05/</link>
       <pubDate>Mon, 05 Jul 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-07-05/</guid>
-      <description>&lt;p&gt;One paper has been accepted to IEEE Signal Processing Letters (SPL). View the detail: &lt;a href=&#34;http://localhost:1313/publication/two-branch-dnn&#34;&gt;Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-07-05/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Signal Processing Letters (SPL). View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/two-branch-dnn&#34;&gt;Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Information-Growth Attention Network for Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/information-growth-attention-network/</link>
+      <link>https://pkummcal.github.io/publication/information-growth-attention-network/</link>
       <pubDate>Mon, 05 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/information-growth-attention-network/</guid>
+      <guid>https://pkummcal.github.io/publication/information-growth-attention-network/</guid>
       <description></description>
     </item>
     <item>
       <title>New Editorship</title>
-      <link>http://localhost:1313/post/2021-06-05/</link>
+      <link>https://pkummcal.github.io/post/2021-06-05/</link>
       <pubDate>Sat, 05 Jun 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-06-05/</guid>
+      <guid>https://pkummcal.github.io/post/2021-06-05/</guid>
       <description>&lt;p&gt;Dr. Wei Gao has been appointed as Associate Editor for Neural Processing Letters (NEPL, CCF recommended journal).&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-05-15/</link>
+      <link>https://pkummcal.github.io/post/2021-05-15/</link>
       <pubDate>Sat, 15 May 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-05-15/</guid>
-      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: &lt;a href=&#34;http://localhost:1313/publication/unified-information-fusion&#34;&gt;Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-05-15/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/unified-information-fusion&#34;&gt;Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection</title>
-      <link>http://localhost:1313/publication/unified-information-fusion/</link>
+      <link>https://pkummcal.github.io/publication/unified-information-fusion/</link>
       <pubDate>Sat, 15 May 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/unified-information-fusion/</guid>
+      <guid>https://pkummcal.github.io/publication/unified-information-fusion/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-05-13/</link>
+      <link>https://pkummcal.github.io/post/2021-05-13/</link>
       <pubDate>Thu, 13 May 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-05-13/</guid>
-      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Multimedia (TMM). View the detail: &lt;a href=&#34;http://localhost:1313/publication/cross-modality-fusion&#34;&gt;Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-05-13/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Multimedia (TMM). View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/cross-modality-fusion&#34;&gt;Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images</title>
-      <link>http://localhost:1313/publication/cross-modality-fusion/</link>
+      <link>https://pkummcal.github.io/publication/cross-modality-fusion/</link>
       <pubDate>Thu, 13 May 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/cross-modality-fusion/</guid>
+      <guid>https://pkummcal.github.io/publication/cross-modality-fusion/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-05-06/</link>
+      <link>https://pkummcal.github.io/post/2021-05-06/</link>
       <pubDate>Thu, 06 May 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-05-06/</guid>
-      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Industrial Informatics (TII). View the detail: &lt;a href=&#34;http://localhost:1313/publication/consistent-quality-oriented-rate-control&#34;&gt;Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-05-06/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Industrial Informatics (TII). View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/consistent-quality-oriented-rate-control&#34;&gt;Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-04-11/</link>
+      <link>https://pkummcal.github.io/post/2021-04-11/</link>
       <pubDate>Sun, 11 Apr 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-04-11/</guid>
-      <description>&lt;p&gt;One paper has been accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2021. View the detail: &lt;a href=&#34;http://localhost:1313/publication/deep-image-compression&#34;&gt;Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-04-11/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2021. View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/deep-image-compression&#34;&gt;Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation</title>
-      <link>http://localhost:1313/publication/deep-image-compression/</link>
+      <link>https://pkummcal.github.io/publication/deep-image-compression/</link>
       <pubDate>Sun, 11 Apr 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/deep-image-compression/</guid>
+      <guid>https://pkummcal.github.io/publication/deep-image-compression/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-03-29/</link>
+      <link>https://pkummcal.github.io/post/2021-03-29/</link>
       <pubDate>Mon, 29 Mar 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-03-29/</guid>
-      <description>&lt;p&gt;One paper has been accepted to ACM Transactions on Multimedia Computing Communications and Applications (TOMM). View the detail: &lt;a href=&#34;http://localhost:1313/publication/fast-view-synthesis&#34;&gt;A Fast View Synthesis Implementation Method for Light Field Applications&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-03-29/</guid>
+      <description>&lt;p&gt;One paper has been accepted to ACM Transactions on Multimedia Computing Communications and Applications (TOMM). View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/fast-view-synthesis&#34;&gt;A Fast View Synthesis Implementation Method for Light Field Applications&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Fast View Synthesis Implementation Method for Light Field Applications</title>
-      <link>http://localhost:1313/publication/fast-view-synthesis/</link>
+      <link>https://pkummcal.github.io/publication/fast-view-synthesis/</link>
       <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/fast-view-synthesis/</guid>
+      <guid>https://pkummcal.github.io/publication/fast-view-synthesis/</guid>
       <description></description>
     </item>
     <item>
       <title>Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding</title>
-      <link>http://localhost:1313/publication/consistent-quality-oriented-rate-control/</link>
+      <link>https://pkummcal.github.io/publication/consistent-quality-oriented-rate-control/</link>
       <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/consistent-quality-oriented-rate-control/</guid>
+      <guid>https://pkummcal.github.io/publication/consistent-quality-oriented-rate-control/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-03-06/</link>
+      <link>https://pkummcal.github.io/post/2021-03-06/</link>
       <pubDate>Sat, 06 Mar 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-03-06/</guid>
-      <description>&lt;p&gt;Two papers have been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2021. View the detail:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/publication/dynamic-computational-resource-allocation/&#34;&gt;Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/publication/no-reference-deep-quality-assessment&#34;&gt;No-Reference Deep Quality Assessment of Compressed Light Field Images&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-03-06/</guid>
+      <description>&lt;p&gt;Two papers have been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2021. View the detail:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pkummcal.github.io/publication/dynamic-computational-resource-allocation/&#34;&gt;Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pkummcal.github.io/publication/no-reference-deep-quality-assessment&#34;&gt;No-Reference Deep Quality Assessment of Compressed Light Field Images&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications</title>
-      <link>http://localhost:1313/publication/dynamic-computational-resource-allocation/</link>
+      <link>https://pkummcal.github.io/publication/dynamic-computational-resource-allocation/</link>
       <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/dynamic-computational-resource-allocation/</guid>
+      <guid>https://pkummcal.github.io/publication/dynamic-computational-resource-allocation/</guid>
       <description></description>
     </item>
     <item>
       <title>No-Reference Deep Quality Assessment of Compressed Light Field Images</title>
-      <link>http://localhost:1313/publication/no-reference-deep-quality-assessment/</link>
+      <link>https://pkummcal.github.io/publication/no-reference-deep-quality-assessment/</link>
       <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/no-reference-deep-quality-assessment/</guid>
+      <guid>https://pkummcal.github.io/publication/no-reference-deep-quality-assessment/</guid>
       <description></description>
     </item>
     <item>
       <title>A New Coding Unit Partitioning Mode for Screen Content Video Coding</title>
-      <link>http://localhost:1313/publication/new-coding-unit-partitioning/</link>
+      <link>https://pkummcal.github.io/publication/new-coding-unit-partitioning/</link>
       <pubDate>Fri, 26 Feb 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/new-coding-unit-partitioning/</guid>
+      <guid>https://pkummcal.github.io/publication/new-coding-unit-partitioning/</guid>
       <description></description>
     </item>
     <item>
       <title>Call for Papers</title>
-      <link>http://localhost:1313/post/2021-02-15/</link>
+      <link>https://pkummcal.github.io/post/2021-02-15/</link>
       <pubDate>Mon, 15 Feb 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-02-15/</guid>
+      <guid>https://pkummcal.github.io/post/2021-02-15/</guid>
       <description>&lt;p&gt;We are organizing a workshop at ICME 2021 (First International Workshop on Quality of Experience in Interactive Multimedia, &lt;a href=&#34;https://2021.ieeeicme.org/conf_workshops)&#34;&gt;https://2021.ieeeicme.org/conf_workshops)&lt;/a&gt;. The submission deadline is March 13, 2021. Welcome to submit papers!&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2021-01-30/</link>
+      <link>https://pkummcal.github.io/post/2021-01-30/</link>
       <pubDate>Sat, 30 Jan 2021 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2021-01-30/</guid>
-      <description>&lt;p&gt;A paper authored by Zhanyuan Cai, Wei Gao, et.al. is  accepted to IEEE International Symposium on Circuits and Systems (ISCAS) 2021.&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;http://localhost:1313/publication/efficient-fast-algorithm/&#34;&gt;Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2021-01-30/</guid>
+      <description>&lt;p&gt;A paper authored by Zhanyuan Cai, Wei Gao, et.al. is  accepted to IEEE International Symposium on Circuits and Systems (ISCAS) 2021.&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/efficient-fast-algorithm/&#34;&gt;Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3</title>
-      <link>http://localhost:1313/publication/efficient-fast-algorithm/</link>
+      <link>https://pkummcal.github.io/publication/efficient-fast-algorithm/</link>
       <pubDate>Sat, 30 Jan 2021 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/efficient-fast-algorithm/</guid>
+      <guid>https://pkummcal.github.io/publication/efficient-fast-algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</title>
-      <link>http://localhost:1313/publication/mmnet/</link>
+      <link>https://pkummcal.github.io/publication/mmnet/</link>
       <pubDate>Mon, 12 Oct 2020 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/mmnet/</guid>
+      <guid>https://pkummcal.github.io/publication/mmnet/</guid>
       <description></description>
     </item>
     <item>
       <title>Team Building Activity</title>
-      <link>http://localhost:1313/post/2020-10-07/</link>
+      <link>https://pkummcal.github.io/post/2020-10-07/</link>
       <pubDate>Wed, 07 Oct 2020 15:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-10-07/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/nanshan_1.jpg&#34; alt=&#34;img1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/nanshan_2.jpg&#34; alt=&#34;img2&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2020-10-07/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://pkummcal.github.io/img/nanshan_1.jpg&#34; alt=&#34;img1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pkummcal.github.io/img/nanshan_2.jpg&#34; alt=&#34;img2&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Fund</title>
-      <link>http://localhost:1313/post/2020-07-31/</link>
+      <link>https://pkummcal.github.io/post/2020-07-31/</link>
       <pubDate>Fri, 31 Jul 2020 15:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-07-31/</guid>
+      <guid>https://pkummcal.github.io/post/2020-07-31/</guid>
       <description>&lt;p&gt;View the detail: &lt;a href=&#34;https://ur.tencent.com/article/296&#34;&gt;https://ur.tencent.com/article/296&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2020-07-14/</link>
+      <link>https://pkummcal.github.io/post/2020-07-14/</link>
       <pubDate>Tue, 14 Jul 2020 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-07-14/</guid>
-      <description>&lt;p&gt;A paper authored by Guibiao Liao, Wei Gao, et.al. is  accepted to ACM Multimedia 2020&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;http://localhost:1313/publication/mmnet/&#34;&gt;MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2020-07-14/</guid>
+      <description>&lt;p&gt;A paper authored by Guibiao Liao, Wei Gao, et.al. is  accepted to ACM Multimedia 2020&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/mmnet/&#34;&gt;MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Research Activity</title>
-      <link>http://localhost:1313/post/2020-07-10/</link>
+      <link>https://pkummcal.github.io/post/2020-07-10/</link>
       <pubDate>Fri, 10 Jul 2020 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-07-10/</guid>
+      <guid>https://pkummcal.github.io/post/2020-07-10/</guid>
       <description>&lt;p&gt;Dr. Wei Gao has been appointed as Associate Editor for Electronics Letters (Internationally renowned peer-reviewed rapid-communication journal).&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Research Activity</title>
-      <link>http://localhost:1313/post/2020-06-20/</link>
+      <link>https://pkummcal.github.io/post/2020-06-20/</link>
       <pubDate>Sat, 20 Jun 2020 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-06-20/</guid>
+      <guid>https://pkummcal.github.io/post/2020-06-20/</guid>
       <description>&lt;p&gt;Dr. Wei Gao has been appointed as Associate Editor for IET Image Processing (CCF recommended journal).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Low-rate Image Compression with Super-Resolution Learning</title>
-      <link>http://localhost:1313/publication/low-rate-image-compression/</link>
+      <link>https://pkummcal.github.io/publication/low-rate-image-compression/</link>
       <pubDate>Fri, 12 Jun 2020 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/low-rate-image-compression/</guid>
+      <guid>https://pkummcal.github.io/publication/low-rate-image-compression/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper Acceptance</title>
-      <link>http://localhost:1313/post/2020-05-14/</link>
+      <link>https://pkummcal.github.io/post/2020-05-14/</link>
       <pubDate>Thu, 14 May 2020 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/2020-05-14/</guid>
-      <description>&lt;p&gt;A paper authored by Wei Gao, Lvfang Tao, Linjie Zhou, Dinghao Yang, Xiaoyu Zhang and Zixuan Guo is  accepted to CVPR 2020 Workshops.&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;http://localhost:1313/publication/low-rate-image-compression/&#34;&gt;Low-rate Image Compression with Super-Resolution Learning&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/post/2020-05-14/</guid>
+      <description>&lt;p&gt;A paper authored by Wei Gao, Lvfang Tao, Linjie Zhou, Dinghao Yang, Xiaoyu Zhang and Zixuan Guo is  accepted to CVPR 2020 Workshops.&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;https://pkummcal.github.io/publication/low-rate-image-compression/&#34;&gt;Low-rate Image Compression with Super-Resolution Learning&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blind Image Quality Measurement by Exploiting High Order Statistics with Deep Dictionary Encoding Network</title>
-      <link>http://localhost:1313/publication/blind-image-quality-measurement/</link>
+      <link>https://pkummcal.github.io/publication/blind-image-quality-measurement/</link>
       <pubDate>Sun, 12 Apr 2020 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/blind-image-quality-measurement/</guid>
+      <guid>https://pkummcal.github.io/publication/blind-image-quality-measurement/</guid>
       <description></description>
     </item>
     <item>
       <title>A Multi-Objective Optimization Perspective for Joint Consideration of Video Coding Quality</title>
-      <link>http://localhost:1313/publication/multi-objective-optimization-perspective/</link>
+      <link>https://pkummcal.github.io/publication/multi-objective-optimization-perspective/</link>
       <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/multi-objective-optimization-perspective/</guid>
+      <guid>https://pkummcal.github.io/publication/multi-objective-optimization-perspective/</guid>
       <description></description>
     </item>
     <item>
       <title>A Risk-Aware Pairwise Rank Learning Approach for Visual Discomfort Prediction of Stereoscopic 3D Images</title>
-      <link>http://localhost:1313/publication/risk-aware-airwise-rank-learning/</link>
+      <link>https://pkummcal.github.io/publication/risk-aware-airwise-rank-learning/</link>
       <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/risk-aware-airwise-rank-learning/</guid>
+      <guid>https://pkummcal.github.io/publication/risk-aware-airwise-rank-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>SSIM-Based Global Optimization for CTU-Level Rate Control in HEVC</title>
-      <link>http://localhost:1313/publication/ssim-based-global-optimization/</link>
+      <link>https://pkummcal.github.io/publication/ssim-based-global-optimization/</link>
       <pubDate>Mon, 12 Aug 2019 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/ssim-based-global-optimization/</guid>
+      <guid>https://pkummcal.github.io/publication/ssim-based-global-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Unified No-reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images</title>
-      <link>http://localhost:1313/publication/unified-no-reference-quality-assessment/</link>
+      <link>https://pkummcal.github.io/publication/unified-no-reference-quality-assessment/</link>
       <pubDate>Fri, 12 Apr 2019 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/unified-no-reference-quality-assessment/</guid>
+      <guid>https://pkummcal.github.io/publication/unified-no-reference-quality-assessment/</guid>
       <description></description>
     </item>
     <item>
       <title>Data-Driven Rate Control for Rate-Distortion Optimization in HEVC Based on Simplified Effective Initial QP Learning</title>
-      <link>http://localhost:1313/publication/data-driven-rate-control/</link>
+      <link>https://pkummcal.github.io/publication/data-driven-rate-control/</link>
       <pubDate>Tue, 12 Mar 2019 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/data-driven-rate-control/</guid>
+      <guid>https://pkummcal.github.io/publication/data-driven-rate-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Sparse Bayesian Learning Based Kernel Poisson Regression</title>
-      <link>http://localhost:1313/publication/sparse-bayesian-learning/</link>
+      <link>https://pkummcal.github.io/publication/sparse-bayesian-learning/</link>
       <pubDate>Sat, 12 Jan 2019 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/sparse-bayesian-learning/</guid>
+      <guid>https://pkummcal.github.io/publication/sparse-bayesian-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Nonnegative Matrix Factorization with Mixed Hypergraph Regularization for Community Detection</title>
-      <link>http://localhost:1313/publication/nonnegative-matrix-factorization/</link>
+      <link>https://pkummcal.github.io/publication/nonnegative-matrix-factorization/</link>
       <pubDate>Thu, 12 Apr 2018 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/nonnegative-matrix-factorization/</guid>
+      <guid>https://pkummcal.github.io/publication/nonnegative-matrix-factorization/</guid>
       <description></description>
     </item>
     <item>
       <title>Joint Machine Learning and Game Theory for Rate Control in High Efficiency Video Coding</title>
-      <link>http://localhost:1313/publication/joint-machine-learning/</link>
+      <link>https://pkummcal.github.io/publication/joint-machine-learning/</link>
       <pubDate>Tue, 12 Dec 2017 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/joint-machine-learning/</guid>
+      <guid>https://pkummcal.github.io/publication/joint-machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Generalized Relevance Vector Machine</title>
-      <link>http://localhost:1313/publication/generalized-relevance-vector-machine/</link>
+      <link>https://pkummcal.github.io/publication/generalized-relevance-vector-machine/</link>
       <pubDate>Tue, 12 Sep 2017 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/generalized-relevance-vector-machine/</guid>
+      <guid>https://pkummcal.github.io/publication/generalized-relevance-vector-machine/</guid>
       <description></description>
     </item>
     <item>
       <title>A Phase Congruency Based Patch Evaluator for Complexity Reduction in Multi-dictionary Based Single-image Superresolution</title>
-      <link>http://localhost:1313/publication/phase-congruency-based-patch-evaluator/</link>
+      <link>https://pkummcal.github.io/publication/phase-congruency-based-patch-evaluator/</link>
       <pubDate>Sat, 12 Nov 2016 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/phase-congruency-based-patch-evaluator/</guid>
+      <guid>https://pkummcal.github.io/publication/phase-congruency-based-patch-evaluator/</guid>
       <description></description>
     </item>
     <item>
       <title>Phase Congruency Based Edge Saliency Detection and Rate Control for Perceptual Image and Video Coding</title>
-      <link>http://localhost:1313/publication/phase-congruency-based-edge-saliency-detection/</link>
+      <link>https://pkummcal.github.io/publication/phase-congruency-based-edge-saliency-detection/</link>
       <pubDate>Wed, 12 Oct 2016 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/phase-congruency-based-edge-saliency-detection/</guid>
+      <guid>https://pkummcal.github.io/publication/phase-congruency-based-edge-saliency-detection/</guid>
       <description></description>
     </item>
     <item>
       <title>Bi-level Optimization of Block Compressive Sensing with Perceptually Nonlocal Similarity</title>
-      <link>http://localhost:1313/publication/bi-level-optimization/</link>
+      <link>https://pkummcal.github.io/publication/bi-level-optimization/</link>
       <pubDate>Mon, 12 Sep 2016 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/bi-level-optimization/</guid>
+      <guid>https://pkummcal.github.io/publication/bi-level-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiscale Phase Congruency Analysis for Image Edge Visual Saliency Detection</title>
-      <link>http://localhost:1313/publication/multiscale-phase-congruency-analysis/</link>
+      <link>https://pkummcal.github.io/publication/multiscale-phase-congruency-analysis/</link>
       <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/multiscale-phase-congruency-analysis/</guid>
+      <guid>https://pkummcal.github.io/publication/multiscale-phase-congruency-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Bowen Qu, MPhil Student</title>
-      <link>http://localhost:1313/member/qubowen/</link>
+      <link>https://pkummcal.github.io/member/qubowen/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/qubowen/</guid>
+      <guid>https://pkummcal.github.io/member/qubowen/</guid>
       <description></description>
     </item>
     <item>
       <title>Changhao Peng, MPhil Student</title>
-      <link>http://localhost:1313/member/pengchanghao/</link>
+      <link>https://pkummcal.github.io/member/pengchanghao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/pengchanghao/</guid>
+      <guid>https://pkummcal.github.io/member/pengchanghao/</guid>
       <description></description>
     </item>
     <item>
       <title>Chengwei Wang, MPhil Student</title>
-      <link>http://localhost:1313/member/wangchengwei/</link>
+      <link>https://pkummcal.github.io/member/wangchengwei/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/wangchengwei/</guid>
+      <guid>https://pkummcal.github.io/member/wangchengwei/</guid>
       <description></description>
     </item>
     <item>
       <title>Chenhao Zhang, MPhil Student</title>
-      <link>http://localhost:1313/member/zhangchenhao/</link>
+      <link>https://pkummcal.github.io/member/zhangchenhao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/zhangchenhao/</guid>
+      <guid>https://pkummcal.github.io/member/zhangchenhao/</guid>
       <description></description>
     </item>
     <item>
       <title>Dinghao Yang, MPhil Student</title>
-      <link>http://localhost:1313/member/yangdinghao/</link>
+      <link>https://pkummcal.github.io/member/yangdinghao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/yangdinghao/</guid>
+      <guid>https://pkummcal.github.io/member/yangdinghao/</guid>
       <description></description>
     </item>
     <item>
       <title>Fangyu Shen, MPhil Student</title>
-      <link>http://localhost:1313/member/shenfangyu/</link>
+      <link>https://pkummcal.github.io/member/shenfangyu/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/shenfangyu/</guid>
+      <guid>https://pkummcal.github.io/member/shenfangyu/</guid>
       <description></description>
     </item>
     <item>
       <title>Guibiao Liao, MPhil Student</title>
-      <link>http://localhost:1313/member/liaoguibiao/</link>
+      <link>https://pkummcal.github.io/member/liaoguibiao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/liaoguibiao/</guid>
+      <guid>https://pkummcal.github.io/member/liaoguibiao/</guid>
       <description></description>
     </item>
     <item>
       <title>Hang Yuan, PhD Student</title>
-      <link>http://localhost:1313/member/yuanhang/</link>
+      <link>https://pkummcal.github.io/member/yuanhang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/yuanhang/</guid>
+      <guid>https://pkummcal.github.io/member/yuanhang/</guid>
       <description></description>
     </item>
     <item>
       <title>Haohui Li, MPhil Student</title>
-      <link>http://localhost:1313/member/lihaohui/</link>
+      <link>https://pkummcal.github.io/member/lihaohui/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/lihaohui/</guid>
+      <guid>https://pkummcal.github.io/member/lihaohui/</guid>
       <description></description>
     </item>
     <item>
       <title>Haoruo Liu, MPhil Student</title>
-      <link>http://localhost:1313/member/liuhaoruo/</link>
+      <link>https://pkummcal.github.io/member/liuhaoruo/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/liuhaoruo/</guid>
+      <guid>https://pkummcal.github.io/member/liuhaoruo/</guid>
       <description></description>
     </item>
     <item>
       <title>Huiming Zheng, Phd Student</title>
-      <link>http://localhost:1313/member/zhenghuiming/</link>
+      <link>https://pkummcal.github.io/member/zhenghuiming/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/zhenghuiming/</guid>
+      <guid>https://pkummcal.github.io/member/zhenghuiming/</guid>
       <description></description>
     </item>
     <item>
       <title>Jianing Chen, MPhil Student</title>
-      <link>http://localhost:1313/member/chenjianing/</link>
+      <link>https://pkummcal.github.io/member/chenjianing/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/chenjianing/</guid>
+      <guid>https://pkummcal.github.io/member/chenjianing/</guid>
       <description></description>
     </item>
     <item>
       <title>Junhong Lin, PhD Student</title>
-      <link>http://localhost:1313/member/linjunhong/</link>
+      <link>https://pkummcal.github.io/member/linjunhong/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/linjunhong/</guid>
+      <guid>https://pkummcal.github.io/member/linjunhong/</guid>
       <description></description>
     </item>
     <item>
       <title>Junlin Li, MPhil Student</title>
-      <link>http://localhost:1313/member/lijunlin/</link>
+      <link>https://pkummcal.github.io/member/lijunlin/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/lijunlin/</guid>
+      <guid>https://pkummcal.github.io/member/lijunlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Kaiyu Zheng, MPhil Student</title>
-      <link>http://localhost:1313/member/zhengkaiyu/</link>
+      <link>https://pkummcal.github.io/member/zhengkaiyu/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/zhengkaiyu/</guid>
+      <guid>https://pkummcal.github.io/member/zhengkaiyu/</guid>
       <description></description>
     </item>
     <item>
       <title>Kangli Wang, MPhil Student</title>
-      <link>http://localhost:1313/member/wangkangli/</link>
+      <link>https://pkummcal.github.io/member/wangkangli/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/wangkangli/</guid>
+      <guid>https://pkummcal.github.io/member/wangkangli/</guid>
       <description></description>
     </item>
     <item>
       <title>Liang Xie, PhD Student</title>
-      <link>http://localhost:1313/member/sunshangkun/</link>
+      <link>https://pkummcal.github.io/member/sunshangkun/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/sunshangkun/</guid>
+      <guid>https://pkummcal.github.io/member/sunshangkun/</guid>
       <description></description>
     </item>
     <item>
       <title>Liang Xie, PhD Student</title>
-      <link>http://localhost:1313/member/xieliang/</link>
+      <link>https://pkummcal.github.io/member/xieliang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/xieliang/</guid>
+      <guid>https://pkummcal.github.io/member/xieliang/</guid>
       <description></description>
     </item>
     <item>
       <title>Linhui Wang, MPhil Student</title>
-      <link>http://localhost:1313/member/wanglinhui/</link>
+      <link>https://pkummcal.github.io/member/wanglinhui/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/wanglinhui/</guid>
+      <guid>https://pkummcal.github.io/member/wanglinhui/</guid>
       <description></description>
     </item>
     <item>
       <title>Linjie Zhou, MPhil Student</title>
-      <link>http://localhost:1313/member/zhoulinjie/</link>
+      <link>https://pkummcal.github.io/member/zhoulinjie/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/zhoulinjie/</guid>
+      <guid>https://pkummcal.github.io/member/zhoulinjie/</guid>
       <description></description>
     </item>
     <item>
       <title>Lvfang Tao, MPhil Student</title>
-      <link>http://localhost:1313/member/taolvfang/</link>
+      <link>https://pkummcal.github.io/member/taolvfang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/taolvfang/</guid>
+      <guid>https://pkummcal.github.io/member/taolvfang/</guid>
       <description></description>
     </item>
     <item>
       <title>Qianxi Yi, PhD Student</title>
-      <link>http://localhost:1313/member/yiqianxi/</link>
+      <link>https://pkummcal.github.io/member/yiqianxi/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/yiqianxi/</guid>
+      <guid>https://pkummcal.github.io/member/yiqianxi/</guid>
       <description></description>
     </item>
     <item>
       <title>Shihao Li, MPhil Student</title>
-      <link>http://localhost:1313/member/lishihao/</link>
+      <link>https://pkummcal.github.io/member/lishihao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/lishihao/</guid>
+      <guid>https://pkummcal.github.io/member/lishihao/</guid>
       <description></description>
     </item>
     <item>
       <title>Shuqing Luo, MPhil Student</title>
-      <link>http://localhost:1313/member/luoshuqing/</link>
+      <link>https://pkummcal.github.io/member/luoshuqing/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/luoshuqing/</guid>
+      <guid>https://pkummcal.github.io/member/luoshuqing/</guid>
       <description></description>
     </item>
     <item>
       <title>Songlin Fan, MPhil Student</title>
-      <link>http://localhost:1313/member/fansonglin/</link>
+      <link>https://pkummcal.github.io/member/fansonglin/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/fansonglin/</guid>
+      <guid>https://pkummcal.github.io/member/fansonglin/</guid>
       <description></description>
     </item>
     <item>
       <title>Wang Liu, Phd Student</title>
-      <link>http://localhost:1313/member/liuwang/</link>
+      <link>https://pkummcal.github.io/member/liuwang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/liuwang/</guid>
+      <guid>https://pkummcal.github.io/member/liuwang/</guid>
       <description></description>
     </item>
     <item>
       <title>Wei Cheng, PhD Student</title>
-      <link>http://localhost:1313/member/chengwei/</link>
+      <link>https://pkummcal.github.io/member/chengwei/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/chengwei/</guid>
+      <guid>https://pkummcal.github.io/member/chengwei/</guid>
       <description></description>
     </item>
     <item>
       <title>Wei Gao, Assistant Professor</title>
-      <link>http://localhost:1313/member/gaowei/</link>
+      <link>https://pkummcal.github.io/member/gaowei/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/gaowei/</guid>
+      <guid>https://pkummcal.github.io/member/gaowei/</guid>
       <description>&lt;p&gt;Wei GAO is an Assistant Professor/Ph.D. Supervisor at the School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, China (Since 2019). He is now leading the &lt;strong&gt;Multimedia Computing and AI Lab (MMCAL)&lt;/strong&gt;. His research interests include &lt;strong&gt;3D Point Cloud Coding, Image and Video Coding, Quality Assessment and Enhancement, 3D Vision and Multimodal Learning, Multimedia and AI Applications&lt;/strong&gt;. He is a Senior Member of IEEE.&lt;/p&gt;&#xA;&lt;p&gt;Research: He has published over 170 research papers, applied over 100 patents, and submitted over 60 standard proposals. He authored two books published by Springer Nature, including “Deep Learning for 3D Point Clouds” and “Point Cloud Compression: Technologies and Standardization”. He is actively participating in the development of multimedia and artificial intelligence standards. He participated in the establishment of group standards for “Information Technology - High Efficiency Graphics Data Coding, Part 2: Point Clouds” and “Information Technology - High Efficiency Graphics Data Coding, Part 3: Subjective Quality Assessment Methods for Point Clouds”. He participated in the drafting of China&amp;rsquo;s AI series white paper on deep learning in 2023. He established several open source projects, including OpenPointCloud (Point Cloud Coding and Processing), OpenAICoding (Learning-based Image/Video Coding), OpenDatasets (Large-scale Datasets for Multimedia Computing and AI). As the first recipient, he won the Second Prize of the Natural Science Award of the China Society of Image and Graphics in 2024 (Theories and Methods for Multimodal Visual Perception with Restricted Environments, Ranked 1/2). He won the AVS Industrial Technology Innovation Team Award (For Contributions to Point Cloud Compression Standard) in 2023. He was a recipient of the IEEE Multimedia Rising Star Runner Up Award for Outstanding Early-stage Career Achievements in the Area of 3D Immersive Media Research in 2021. He won the China Computer Federation Excellent Open Source Graphics Software Award in 2022, and the China Computer Federation Tencent Rhino Bird Excellent Patent Award in 2021. He received 2 Outstanding Paper Awards from the Guangdong Computer Federation in 2019/2018, and 5 Outstanding Paper Awards from the Shenzhen Science and Technology Association in 2024/2023/2022. He has undertaken more than 20 government-funded and industry-funded research projects, including National Key R&amp;amp;D Program, National Natural Science Foundation, Guangdong Provincial Natural Science Foundation, Shenzhen City Natural Science Foundation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wenxu Gao, PhD Student</title>
-      <link>http://localhost:1313/member/gaowenxu/</link>
+      <link>https://pkummcal.github.io/member/gaowenxu/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/gaowenxu/</guid>
+      <guid>https://pkummcal.github.io/member/gaowenxu/</guid>
       <description></description>
     </item>
     <item>
       <title>Xiaoyu Liang, MPhil Student</title>
-      <link>http://localhost:1313/member/liangxiaoyu/</link>
+      <link>https://pkummcal.github.io/member/liangxiaoyu/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/liangxiaoyu/</guid>
+      <guid>https://pkummcal.github.io/member/liangxiaoyu/</guid>
       <description></description>
     </item>
     <item>
       <title>Xiaoyu Zhang, MPhil Student</title>
-      <link>http://localhost:1313/member/zhangxiaoyu/</link>
+      <link>https://pkummcal.github.io/member/zhangxiaoyu/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/zhangxiaoyu/</guid>
+      <guid>https://pkummcal.github.io/member/zhangxiaoyu/</guid>
       <description></description>
     </item>
     <item>
       <title>Xijing Lu, MPhil Student</title>
-      <link>http://localhost:1313/member/luxijing/</link>
+      <link>https://pkummcal.github.io/member/luxijing/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/luxijing/</guid>
+      <guid>https://pkummcal.github.io/member/luxijing/</guid>
       <description></description>
     </item>
     <item>
       <title>Xingming Mou, MPhil Student</title>
-      <link>http://localhost:1313/member/mouxingming/</link>
+      <link>https://pkummcal.github.io/member/mouxingming/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/mouxingming/</guid>
+      <guid>https://pkummcal.github.io/member/mouxingming/</guid>
       <description></description>
     </item>
     <item>
       <title>Yang Guo, MPhil Student</title>
-      <link>http://localhost:1313/member/guoyang/</link>
+      <link>https://pkummcal.github.io/member/guoyang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/guoyang/</guid>
+      <guid>https://pkummcal.github.io/member/guoyang/</guid>
       <description></description>
     </item>
     <item>
       <title>Yang Wang, MPhil Student</title>
-      <link>http://localhost:1313/member/wangyang/</link>
+      <link>https://pkummcal.github.io/member/wangyang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/wangyang/</guid>
+      <guid>https://pkummcal.github.io/member/wangyang/</guid>
       <description></description>
     </item>
     <item>
       <title>Yangfan Sun, Visiting Student</title>
-      <link>http://localhost:1313/member/sunyangfan/</link>
+      <link>https://pkummcal.github.io/member/sunyangfan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/sunyangfan/</guid>
+      <guid>https://pkummcal.github.io/member/sunyangfan/</guid>
       <description></description>
     </item>
     <item>
       <title>Yao Li, MPhil Student</title>
-      <link>http://localhost:1313/member/liyao/</link>
+      <link>https://pkummcal.github.io/member/liyao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/liyao/</guid>
+      <guid>https://pkummcal.github.io/member/liyao/</guid>
       <description></description>
     </item>
     <item>
       <title>Yuan Li, MPhil Student</title>
-      <link>http://localhost:1313/member/liyuan/</link>
+      <link>https://pkummcal.github.io/member/liyuan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/liyuan/</guid>
+      <guid>https://pkummcal.github.io/member/liyuan/</guid>
       <description></description>
     </item>
     <item>
       <title>Yuqi Ye, MPhil Student</title>
-      <link>http://localhost:1313/member/yeyuqi/</link>
+      <link>https://pkummcal.github.io/member/yeyuqi/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/yeyuqi/</guid>
+      <guid>https://pkummcal.github.io/member/yeyuqi/</guid>
       <description></description>
     </item>
     <item>
       <title>Yuyang Wu, MPhil Student</title>
-      <link>http://localhost:1313/member/wuyuyang/</link>
+      <link>https://pkummcal.github.io/member/wuyuyang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/wuyuyang/</guid>
+      <guid>https://pkummcal.github.io/member/wuyuyang/</guid>
       <description></description>
     </item>
     <item>
       <title>Zetao Yang, MPhil Student</title>
-      <link>http://localhost:1313/member/yangzetao/</link>
+      <link>https://pkummcal.github.io/member/yangzetao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/yangzetao/</guid>
+      <guid>https://pkummcal.github.io/member/yangzetao/</guid>
       <description></description>
     </item>
     <item>
       <title>Zhanyuan Cai, MPhil Student</title>
-      <link>http://localhost:1313/member/caizhanyuan/</link>
+      <link>https://pkummcal.github.io/member/caizhanyuan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/caizhanyuan/</guid>
+      <guid>https://pkummcal.github.io/member/caizhanyuan/</guid>
       <description></description>
     </item>
     <item>
       <title>Zhiyang Qi, MPhil Student</title>
-      <link>http://localhost:1313/member/qizhiyang/</link>
+      <link>https://pkummcal.github.io/member/qizhiyang/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/qizhiyang/</guid>
+      <guid>https://pkummcal.github.io/member/qizhiyang/</guid>
       <description></description>
     </item>
     <item>
       <title>Zhuozhen Yu, MPhil Student</title>
-      <link>http://localhost:1313/member/yuzhuozhen/</link>
+      <link>https://pkummcal.github.io/member/yuzhuozhen/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/yuzhuozhen/</guid>
+      <guid>https://pkummcal.github.io/member/yuzhuozhen/</guid>
       <description></description>
     </item>
     <item>
       <title>Zijian Zhang, MPhil Student</title>
-      <link>http://localhost:1313/member/zhangzijian/</link>
+      <link>https://pkummcal.github.io/member/zhangzijian/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/zhangzijian/</guid>
+      <guid>https://pkummcal.github.io/member/zhangzijian/</guid>
       <description></description>
     </item>
     <item>
       <title>Zixuan Guo, MPhil Student</title>
-      <link>http://localhost:1313/member/guozixuan/</link>
+      <link>https://pkummcal.github.io/member/guozixuan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/guozixuan/</guid>
+      <guid>https://pkummcal.github.io/member/guozixuan/</guid>
       <description></description>
     </item>
     <item>
       <title>SSIM-Based Game Theory Approach for Rate-Distortion Optimized Intra Frame CTU-Level Bit Allocation</title>
-      <link>http://localhost:1313/publication/ssim-based-game-theory/</link>
+      <link>https://pkummcal.github.io/publication/ssim-based-game-theory/</link>
       <pubDate>Sun, 12 Jun 2016 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/ssim-based-game-theory/</guid>
+      <guid>https://pkummcal.github.io/publication/ssim-based-game-theory/</guid>
       <description></description>
     </item>
     <item>
       <title>DCT Coefficient Distribution Modeling and Quality Dependency Analysis Based Frame-Level Bit Allocation for HEVC</title>
-      <link>http://localhost:1313/publication/dct-coefficient-distribution/</link>
+      <link>https://pkummcal.github.io/publication/dct-coefficient-distribution/</link>
       <pubDate>Tue, 12 Jan 2016 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/dct-coefficient-distribution/</guid>
+      <guid>https://pkummcal.github.io/publication/dct-coefficient-distribution/</guid>
       <description></description>
     </item>
     <item>
       <title>Rate Distortion Optimized Inter View Frame Level Bit Allocation Method for MV-HEVC</title>
-      <link>http://localhost:1313/publication/rate-distortion-optimized-inter-view/</link>
+      <link>https://pkummcal.github.io/publication/rate-distortion-optimized-inter-view/</link>
       <pubDate>Sat, 12 Dec 2015 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/rate-distortion-optimized-inter-view/</guid>
+      <guid>https://pkummcal.github.io/publication/rate-distortion-optimized-inter-view/</guid>
       <description></description>
     </item>
     <item>
       <title>Smooth View Quality Oriented Bit Allocation Optimization for 3D Video Coding</title>
-      <link>http://localhost:1313/publication/smooth-view-quality-oriented/</link>
+      <link>https://pkummcal.github.io/publication/smooth-view-quality-oriented/</link>
       <pubDate>Mon, 12 Oct 2015 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/smooth-view-quality-oriented/</guid>
+      <guid>https://pkummcal.github.io/publication/smooth-view-quality-oriented/</guid>
       <description></description>
     </item>
     <item>
       <title>Complexity Reduction in Multi-dictionary Based Single-Image Superresolution Reconstruction via Phase Congruency</title>
-      <link>http://localhost:1313/publication/complexity-reduction-in-multi-dictionary/</link>
+      <link>https://pkummcal.github.io/publication/complexity-reduction-in-multi-dictionary/</link>
       <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/complexity-reduction-in-multi-dictionary/</guid>
+      <guid>https://pkummcal.github.io/publication/complexity-reduction-in-multi-dictionary/</guid>
       <description></description>
     </item>
     <item>
       <title>Phase Congruency Analysis of Down-sampled and Blurring Images for Foreground Extraction</title>
-      <link>http://localhost:1313/publication/phase-congruency-analysis/</link>
+      <link>https://pkummcal.github.io/publication/phase-congruency-analysis/</link>
       <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/phase-congruency-analysis/</guid>
+      <guid>https://pkummcal.github.io/publication/phase-congruency-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Low-cost Memory Data Scheduling Method for Reconfigurable FFT Bit-reversal Circuits</title>
-      <link>http://localhost:1313/publication/low-cost-memory/</link>
+      <link>https://pkummcal.github.io/publication/low-cost-memory/</link>
       <pubDate>Thu, 12 Feb 2015 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/low-cost-memory/</guid>
+      <guid>https://pkummcal.github.io/publication/low-cost-memory/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/approach/</link>
+      <link>https://pkummcal.github.io/approach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/approach/</guid>
+      <guid>https://pkummcal.github.io/approach/</guid>
       <description>&lt;h1 id=&#34;et-malis-vellet-tellus-deseruere-in-credant&#34;&gt;Et malis vellet tellus deseruere in credant&lt;/h1&gt;&#xA;&lt;h2 id=&#34;inde-sidera-moenia-lacertis-nomen-nostra-membra&#34;&gt;Inde sidera moenia lacertis nomen nostra membra&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio&#xA;Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae&#xA;nitentem avellere motis clipeus Achilles felix videam undas. &lt;em&gt;Posuit haec ipse&lt;/em&gt;&#xA;posse.&lt;/p&gt;&#xA;&lt;p&gt;Ore fame mons Olympi tantae &lt;em&gt;stringit&lt;/em&gt; columbas proxima habebat, longius alta&#xA;non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cristata causam Triones moenia habentem subito utentem&lt;/li&gt;&#xA;&lt;li&gt;Astraea castris contentus nisi leve eum invia&lt;/li&gt;&#xA;&lt;li&gt;Inferiusque capta cognoscenda flaventi locuta notavi fallere&lt;/li&gt;&#xA;&lt;li&gt;Moriens scripsi ictus tuo cum&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus&#xA;tanta tecti terras. Dextras superest flammis accipe volatu vulneris indomitae&#xA;unguibus insignia tempora aquas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://pkummcal.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-mmcal&#34;&gt;About MMCAL&lt;/h1&gt;&#xA;&lt;p&gt;We are the &lt;strong&gt;Multimedia Computing and AI Lab Group&lt;/strong&gt;, from  &lt;a href=&#34;http://www.ece.pku.edu.cn/&#34;&gt;the School of Electronic and Computer Engineering&lt;/a&gt;, &lt;a href=&#34;http://www.pku.edu.cn/&#34;&gt;Peking University&lt;/a&gt;, Shenzhen, China.&lt;/p&gt;&#xA;&lt;p&gt;We are focusing on the &lt;strong&gt;multimedia/multimodal information processing theories&lt;/strong&gt;, &lt;strong&gt;methods&lt;/strong&gt;, and &lt;strong&gt;applications (especially immersive media communication and autonomous unmanned systems)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;multimedia-coding-and-processing&#34;&gt;Multimedia Coding and Processing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multimedia Coding (3D Point Cloud Coding, Image/Video Coding, Deep Learning-Based Coding, Human and Machine Perception-Driven Coding)&lt;/li&gt;&#xA;&lt;li&gt;Multimedia Quality Assessment and Enhancement&lt;/li&gt;&#xA;&lt;li&gt;3D Gaussian Splatting for Reconstruction/Compression/Rendering/Generation/Representation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3d-vision-and-multimodal-learning&#34;&gt;3D Vision and Multimodal Learning&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3D Vision and Multimodal Learning in Unmanned Systems (Autonomous Driving, Robotics, UAV Navigation)&lt;/li&gt;&#xA;&lt;li&gt;Applications of Multimodal Large Model and Generative AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;other-research-topics&#34;&gt;Other Research Topics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Saliency Segmentation for RGB-D/RGB-T/Light Field/Point Cloud (See TPAMI 2023: A Thorough Benchmark and A New Model for Light Field Saliency Detection)&lt;/li&gt;&#xA;&lt;li&gt;Model Compression and Acceleration (See IJCV 2024: Interpretable Task-inspired Adaptive Filter Pruning for Neural Networks Under Multiple Constraints)&lt;/li&gt;&#xA;&lt;li&gt;FPGA/ASIC and Embedded Systems (See ACM MM 2023: OpenHardwareVC: An Open Source Library for 8K UHD Video Coding Hardware Implementation)&lt;/li&gt;&#xA;&lt;li&gt;Open Source Projects (See ACM MM 2022: OpenPointCloud: An Open-Source Algorithm Library of Deep Learning Based Point Cloud Compression)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/MMCALab-Lite.jpg&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;about-mmcal&#34;&gt;About MMCAL&lt;/h1&gt;&#xA;&lt;p&gt;We are the &lt;strong&gt;Multimedia Computing and AI Lab Group&lt;/strong&gt;, from  &lt;a href=&#34;http://www.ece.pku.edu.cn/&#34;&gt;the School of Electronic and Computer Engineering&lt;/a&gt;, &lt;a href=&#34;http://www.pku.edu.cn/&#34;&gt;Peking University&lt;/a&gt;, Shenzhen, China.&lt;/p&gt;&#xA;&lt;p&gt;We are focusing on the &lt;strong&gt;multimedia/multimodal information processing theories&lt;/strong&gt;, &lt;strong&gt;methods&lt;/strong&gt;, and &lt;strong&gt;applications (especially immersive media communication and autonomous unmanned systems)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;multimedia-coding-and-processing&#34;&gt;Multimedia Coding and Processing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multimedia Coding (3D Point Cloud Coding, Image/Video Coding, Deep Learning-Based Coding, Human and Machine Perception-Driven Coding)&lt;/li&gt;&#xA;&lt;li&gt;Multimedia Quality Assessment and Enhancement&lt;/li&gt;&#xA;&lt;li&gt;3D Gaussian Splatting for Reconstruction/Compression/Rendering/Generation/Representation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3d-vision-and-multimodal-learning&#34;&gt;3D Vision and Multimodal Learning&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3D Vision and Multimodal Learning in Unmanned Systems (Autonomous Driving, Robotics, UAV Navigation)&lt;/li&gt;&#xA;&lt;li&gt;Applications of Multimodal Large Model and Generative AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;other-research-topics&#34;&gt;Other Research Topics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Saliency Segmentation for RGB-D/RGB-T/Light Field/Point Cloud (See TPAMI 2023: A Thorough Benchmark and A New Model for Light Field Saliency Detection)&lt;/li&gt;&#xA;&lt;li&gt;Model Compression and Acceleration (See IJCV 2024: Interpretable Task-inspired Adaptive Filter Pruning for Neural Networks Under Multiple Constraints)&lt;/li&gt;&#xA;&lt;li&gt;FPGA/ASIC and Embedded Systems (See ACM MM 2023: OpenHardwareVC: An Open Source Library for 8K UHD Video Coding Hardware Implementation)&lt;/li&gt;&#xA;&lt;li&gt;Open Source Projects (See ACM MM 2022: OpenPointCloud: An Open-Source Algorithm Library of Deep Learning Based Point Cloud Compression)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pkummcal.github.io/img/MMCALab-Lite.jpg&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codes</title>
-      <link>http://localhost:1313/codes/</link>
+      <link>https://pkummcal.github.io/codes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/codes/</guid>
+      <guid>https://pkummcal.github.io/codes/</guid>
       <description>&lt;h1 id=&#34;codes&#34;&gt;Codes&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coming soon&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Datasets</title>
-      <link>http://localhost:1313/datasets/</link>
+      <link>https://pkummcal.github.io/datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/datasets/</guid>
+      <guid>https://pkummcal.github.io/datasets/</guid>
       <description>&lt;h1 id=&#34;datasets&#34;&gt;Datasets&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coming soon&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join Us</title>
-      <link>http://localhost:1313/joinus/</link>
+      <link>https://pkummcal.github.io/joinus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/joinus/</guid>
+      <guid>https://pkummcal.github.io/joinus/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://gaowei262.github.io/Welcome-to-join-us.jpg&#34; alt=&#34;join-us&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Patents &amp; Standardizations</title>
-      <link>http://localhost:1313/patent-standardization/</link>
+      <link>https://pkummcal.github.io/patent-standardization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patent-standardization/</guid>
+      <guid>https://pkummcal.github.io/patent-standardization/</guid>
       <description>&lt;h1 id=&#34;patents--standardizations&#34;&gt;Patents &amp;amp; Standardizations&lt;/h1&gt;&#xA;&lt;p&gt;We have filed more than 100 PCT International/US/China patents in the fields of multimedia computing and AI, and have submitted more than 60 standard proposals.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pct-international-patents&#34;&gt;PCT International Patents&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Methods, Apparatus, Devices and Storage Mediums for Point Cloud Compression Method Based on Coding Rate Variation, PCT International Patent, PCT/CN2024/073221, January 19, 2024.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Methods, Apparatus, Devices and Storage Mediums for Flexible Rate Point Cloud Compression Methods, PCT International Patent, PCT/CN2024/073219, January 19, 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research projects</title>
-      <link>http://localhost:1313/researchprojects/</link>
+      <link>https://pkummcal.github.io/researchprojects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/researchprojects/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Coming soon&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://pkummcal.github.io/researchprojects/</guid>
+      <description>&lt;h1 id=&#34;research-projects&#34;&gt;Research Projects&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coming soon&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research projects</title>
-      <link>http://localhost:1313/resources/</link>
+      <link>https://pkummcal.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/</guid>
+      <guid>https://pkummcal.github.io/resources/</guid>
       <description>&lt;h1 id=&#34;research-projects&#34;&gt;Research projects&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Open source project on &lt;a href=&#34;https://openi.org.cn/&#34;&gt;Openl&lt;/a&gt; platform:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenPointCloud&#34;&gt;OpenPointCloud&lt;/a&gt; (Open Source Project for Point Cloud Coding and Processing)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenAICoding&#34;&gt;OpenAICoding&lt;/a&gt; (Open Source Project for Learning-based Image/Video Coding)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenDatasets&#34;&gt;OpenDatasets&lt;/a&gt; (Large-scale Datasets for Multimedia Computing and AI)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenHardwareVC&#34;&gt;OpenHardwareVC&lt;/a&gt; (Open Source Project for AVS3 8K Encoding Hardware)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenCompression&#34;&gt;OpenCompression&lt;/a&gt; (Open Source Project for Visual Media Compression Optimization)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenVision&#34;&gt;OpenVision&lt;/a&gt; (Open Source Project for Computer Vision)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
