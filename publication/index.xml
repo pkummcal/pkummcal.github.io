@@ -2,270 +2,270 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on MMCAL | Peking University</title>
-    <link>https://pkummcal.github.io/publication/</link>
+    <link>http://localhost:1313/publication/</link>
     <description>Recent content in Publications on MMCAL | Peking University</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; Multimedia Computing and AI Lab, Peking University, 2025</copyright>
     <lastBuildDate>Fri, 30 Jul 2021 16:37:31 +0200</lastBuildDate>
-    <atom:link href="https://pkummcal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Efficient Rate Control Algorithm for Intra Frame Coding in AVS3</title>
-      <link>https://pkummcal.github.io/publication/efficient-rate-control/</link>
+      <link>http://localhost:1313/publication/efficient-rate-control/</link>
       <pubDate>Fri, 30 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/efficient-rate-control/</guid>
+      <guid>http://localhost:1313/publication/efficient-rate-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Efficient Channel Pruning Based on Architecture Alignment and Probability Model Bypassing</title>
-      <link>https://pkummcal.github.io/publication/efficient-channel-pruning/</link>
+      <link>http://localhost:1313/publication/efficient-channel-pruning/</link>
       <pubDate>Fri, 30 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/efficient-channel-pruning/</guid>
+      <guid>http://localhost:1313/publication/efficient-channel-pruning/</guid>
       <description></description>
     </item>
     <item>
       <title>Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space</title>
-      <link>https://pkummcal.github.io/publication/two-branch-dnn/</link>
+      <link>http://localhost:1313/publication/two-branch-dnn/</link>
       <pubDate>Mon, 26 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/two-branch-dnn/</guid>
+      <guid>http://localhost:1313/publication/two-branch-dnn/</guid>
       <description></description>
     </item>
     <item>
       <title>Layer-Wise Geometry Aggregation Framework for Lossless LiDAR Point Cloud Compression</title>
-      <link>https://pkummcal.github.io/publication/layer-wise-geometry/</link>
+      <link>http://localhost:1313/publication/layer-wise-geometry/</link>
       <pubDate>Wed, 21 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/layer-wise-geometry/</guid>
+      <guid>http://localhost:1313/publication/layer-wise-geometry/</guid>
       <description></description>
     </item>
     <item>
       <title>Information-Growth Attention Network for Image Super-Resolution</title>
-      <link>https://pkummcal.github.io/publication/information-growth-attention-network/</link>
+      <link>http://localhost:1313/publication/information-growth-attention-network/</link>
       <pubDate>Mon, 05 Jul 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/information-growth-attention-network/</guid>
+      <guid>http://localhost:1313/publication/information-growth-attention-network/</guid>
       <description></description>
     </item>
     <item>
       <title>Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection</title>
-      <link>https://pkummcal.github.io/publication/unified-information-fusion/</link>
+      <link>http://localhost:1313/publication/unified-information-fusion/</link>
       <pubDate>Sat, 15 May 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/unified-information-fusion/</guid>
+      <guid>http://localhost:1313/publication/unified-information-fusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images</title>
-      <link>https://pkummcal.github.io/publication/cross-modality-fusion/</link>
+      <link>http://localhost:1313/publication/cross-modality-fusion/</link>
       <pubDate>Thu, 13 May 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/cross-modality-fusion/</guid>
+      <guid>http://localhost:1313/publication/cross-modality-fusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation</title>
-      <link>https://pkummcal.github.io/publication/deep-image-compression/</link>
+      <link>http://localhost:1313/publication/deep-image-compression/</link>
       <pubDate>Sun, 11 Apr 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/deep-image-compression/</guid>
+      <guid>http://localhost:1313/publication/deep-image-compression/</guid>
       <description></description>
     </item>
     <item>
       <title>A Fast View Synthesis Implementation Method for Light Field Applications</title>
-      <link>https://pkummcal.github.io/publication/fast-view-synthesis/</link>
+      <link>http://localhost:1313/publication/fast-view-synthesis/</link>
       <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/fast-view-synthesis/</guid>
+      <guid>http://localhost:1313/publication/fast-view-synthesis/</guid>
       <description></description>
     </item>
     <item>
       <title>Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding</title>
-      <link>https://pkummcal.github.io/publication/consistent-quality-oriented-rate-control/</link>
+      <link>http://localhost:1313/publication/consistent-quality-oriented-rate-control/</link>
       <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/consistent-quality-oriented-rate-control/</guid>
+      <guid>http://localhost:1313/publication/consistent-quality-oriented-rate-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications</title>
-      <link>https://pkummcal.github.io/publication/dynamic-computational-resource-allocation/</link>
+      <link>http://localhost:1313/publication/dynamic-computational-resource-allocation/</link>
       <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/dynamic-computational-resource-allocation/</guid>
+      <guid>http://localhost:1313/publication/dynamic-computational-resource-allocation/</guid>
       <description></description>
     </item>
     <item>
       <title>No-Reference Deep Quality Assessment of Compressed Light Field Images</title>
-      <link>https://pkummcal.github.io/publication/no-reference-deep-quality-assessment/</link>
+      <link>http://localhost:1313/publication/no-reference-deep-quality-assessment/</link>
       <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/no-reference-deep-quality-assessment/</guid>
+      <guid>http://localhost:1313/publication/no-reference-deep-quality-assessment/</guid>
       <description></description>
     </item>
     <item>
       <title>A New Coding Unit Partitioning Mode for Screen Content Video Coding</title>
-      <link>https://pkummcal.github.io/publication/new-coding-unit-partitioning/</link>
+      <link>http://localhost:1313/publication/new-coding-unit-partitioning/</link>
       <pubDate>Fri, 26 Feb 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/new-coding-unit-partitioning/</guid>
+      <guid>http://localhost:1313/publication/new-coding-unit-partitioning/</guid>
       <description></description>
     </item>
     <item>
       <title>Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3</title>
-      <link>https://pkummcal.github.io/publication/efficient-fast-algorithm/</link>
+      <link>http://localhost:1313/publication/efficient-fast-algorithm/</link>
       <pubDate>Sat, 30 Jan 2021 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/efficient-fast-algorithm/</guid>
+      <guid>http://localhost:1313/publication/efficient-fast-algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</title>
-      <link>https://pkummcal.github.io/publication/mmnet/</link>
+      <link>http://localhost:1313/publication/mmnet/</link>
       <pubDate>Mon, 12 Oct 2020 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/mmnet/</guid>
+      <guid>http://localhost:1313/publication/mmnet/</guid>
       <description></description>
     </item>
     <item>
       <title>Low-rate Image Compression with Super-Resolution Learning</title>
-      <link>https://pkummcal.github.io/publication/low-rate-image-compression/</link>
+      <link>http://localhost:1313/publication/low-rate-image-compression/</link>
       <pubDate>Fri, 12 Jun 2020 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/low-rate-image-compression/</guid>
+      <guid>http://localhost:1313/publication/low-rate-image-compression/</guid>
       <description></description>
     </item>
     <item>
       <title>Blind Image Quality Measurement by Exploiting High Order Statistics with Deep Dictionary Encoding Network</title>
-      <link>https://pkummcal.github.io/publication/blind-image-quality-measurement/</link>
+      <link>http://localhost:1313/publication/blind-image-quality-measurement/</link>
       <pubDate>Sun, 12 Apr 2020 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/blind-image-quality-measurement/</guid>
+      <guid>http://localhost:1313/publication/blind-image-quality-measurement/</guid>
       <description></description>
     </item>
     <item>
       <title>A Multi-Objective Optimization Perspective for Joint Consideration of Video Coding Quality</title>
-      <link>https://pkummcal.github.io/publication/multi-objective-optimization-perspective/</link>
+      <link>http://localhost:1313/publication/multi-objective-optimization-perspective/</link>
       <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/multi-objective-optimization-perspective/</guid>
+      <guid>http://localhost:1313/publication/multi-objective-optimization-perspective/</guid>
       <description></description>
     </item>
     <item>
       <title>A Risk-Aware Pairwise Rank Learning Approach for Visual Discomfort Prediction of Stereoscopic 3D Images</title>
-      <link>https://pkummcal.github.io/publication/risk-aware-airwise-rank-learning/</link>
+      <link>http://localhost:1313/publication/risk-aware-airwise-rank-learning/</link>
       <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/risk-aware-airwise-rank-learning/</guid>
+      <guid>http://localhost:1313/publication/risk-aware-airwise-rank-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>SSIM-Based Global Optimization for CTU-Level Rate Control in HEVC</title>
-      <link>https://pkummcal.github.io/publication/ssim-based-global-optimization/</link>
+      <link>http://localhost:1313/publication/ssim-based-global-optimization/</link>
       <pubDate>Mon, 12 Aug 2019 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/ssim-based-global-optimization/</guid>
+      <guid>http://localhost:1313/publication/ssim-based-global-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Unified No-reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images</title>
-      <link>https://pkummcal.github.io/publication/unified-no-reference-quality-assessment/</link>
+      <link>http://localhost:1313/publication/unified-no-reference-quality-assessment/</link>
       <pubDate>Fri, 12 Apr 2019 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/unified-no-reference-quality-assessment/</guid>
+      <guid>http://localhost:1313/publication/unified-no-reference-quality-assessment/</guid>
       <description></description>
     </item>
     <item>
       <title>Data-Driven Rate Control for Rate-Distortion Optimization in HEVC Based on Simplified Effective Initial QP Learning</title>
-      <link>https://pkummcal.github.io/publication/data-driven-rate-control/</link>
+      <link>http://localhost:1313/publication/data-driven-rate-control/</link>
       <pubDate>Tue, 12 Mar 2019 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/data-driven-rate-control/</guid>
+      <guid>http://localhost:1313/publication/data-driven-rate-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Sparse Bayesian Learning Based Kernel Poisson Regression</title>
-      <link>https://pkummcal.github.io/publication/sparse-bayesian-learning/</link>
+      <link>http://localhost:1313/publication/sparse-bayesian-learning/</link>
       <pubDate>Sat, 12 Jan 2019 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/sparse-bayesian-learning/</guid>
+      <guid>http://localhost:1313/publication/sparse-bayesian-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Nonnegative Matrix Factorization with Mixed Hypergraph Regularization for Community Detection</title>
-      <link>https://pkummcal.github.io/publication/nonnegative-matrix-factorization/</link>
+      <link>http://localhost:1313/publication/nonnegative-matrix-factorization/</link>
       <pubDate>Thu, 12 Apr 2018 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/nonnegative-matrix-factorization/</guid>
+      <guid>http://localhost:1313/publication/nonnegative-matrix-factorization/</guid>
       <description></description>
     </item>
     <item>
       <title>Joint Machine Learning and Game Theory for Rate Control in High Efficiency Video Coding</title>
-      <link>https://pkummcal.github.io/publication/joint-machine-learning/</link>
+      <link>http://localhost:1313/publication/joint-machine-learning/</link>
       <pubDate>Tue, 12 Dec 2017 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/joint-machine-learning/</guid>
+      <guid>http://localhost:1313/publication/joint-machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Generalized Relevance Vector Machine</title>
-      <link>https://pkummcal.github.io/publication/generalized-relevance-vector-machine/</link>
+      <link>http://localhost:1313/publication/generalized-relevance-vector-machine/</link>
       <pubDate>Tue, 12 Sep 2017 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/generalized-relevance-vector-machine/</guid>
+      <guid>http://localhost:1313/publication/generalized-relevance-vector-machine/</guid>
       <description></description>
     </item>
     <item>
       <title>A Phase Congruency Based Patch Evaluator for Complexity Reduction in Multi-dictionary Based Single-image Superresolution</title>
-      <link>https://pkummcal.github.io/publication/phase-congruency-based-patch-evaluator/</link>
+      <link>http://localhost:1313/publication/phase-congruency-based-patch-evaluator/</link>
       <pubDate>Sat, 12 Nov 2016 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/phase-congruency-based-patch-evaluator/</guid>
+      <guid>http://localhost:1313/publication/phase-congruency-based-patch-evaluator/</guid>
       <description></description>
     </item>
     <item>
       <title>Phase Congruency Based Edge Saliency Detection and Rate Control for Perceptual Image and Video Coding</title>
-      <link>https://pkummcal.github.io/publication/phase-congruency-based-edge-saliency-detection/</link>
+      <link>http://localhost:1313/publication/phase-congruency-based-edge-saliency-detection/</link>
       <pubDate>Wed, 12 Oct 2016 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/phase-congruency-based-edge-saliency-detection/</guid>
+      <guid>http://localhost:1313/publication/phase-congruency-based-edge-saliency-detection/</guid>
       <description></description>
     </item>
     <item>
       <title>Bi-level Optimization of Block Compressive Sensing with Perceptually Nonlocal Similarity</title>
-      <link>https://pkummcal.github.io/publication/bi-level-optimization/</link>
+      <link>http://localhost:1313/publication/bi-level-optimization/</link>
       <pubDate>Mon, 12 Sep 2016 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/bi-level-optimization/</guid>
+      <guid>http://localhost:1313/publication/bi-level-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiscale Phase Congruency Analysis for Image Edge Visual Saliency Detection</title>
-      <link>https://pkummcal.github.io/publication/multiscale-phase-congruency-analysis/</link>
+      <link>http://localhost:1313/publication/multiscale-phase-congruency-analysis/</link>
       <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/multiscale-phase-congruency-analysis/</guid>
+      <guid>http://localhost:1313/publication/multiscale-phase-congruency-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>SSIM-Based Game Theory Approach for Rate-Distortion Optimized Intra Frame CTU-Level Bit Allocation</title>
-      <link>https://pkummcal.github.io/publication/ssim-based-game-theory/</link>
+      <link>http://localhost:1313/publication/ssim-based-game-theory/</link>
       <pubDate>Sun, 12 Jun 2016 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/ssim-based-game-theory/</guid>
+      <guid>http://localhost:1313/publication/ssim-based-game-theory/</guid>
       <description></description>
     </item>
     <item>
       <title>DCT Coefficient Distribution Modeling and Quality Dependency Analysis Based Frame-Level Bit Allocation for HEVC</title>
-      <link>https://pkummcal.github.io/publication/dct-coefficient-distribution/</link>
+      <link>http://localhost:1313/publication/dct-coefficient-distribution/</link>
       <pubDate>Tue, 12 Jan 2016 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/dct-coefficient-distribution/</guid>
+      <guid>http://localhost:1313/publication/dct-coefficient-distribution/</guid>
       <description></description>
     </item>
     <item>
       <title>Rate Distortion Optimized Inter View Frame Level Bit Allocation Method for MV-HEVC</title>
-      <link>https://pkummcal.github.io/publication/rate-distortion-optimized-inter-view/</link>
+      <link>http://localhost:1313/publication/rate-distortion-optimized-inter-view/</link>
       <pubDate>Sat, 12 Dec 2015 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/rate-distortion-optimized-inter-view/</guid>
+      <guid>http://localhost:1313/publication/rate-distortion-optimized-inter-view/</guid>
       <description></description>
     </item>
     <item>
       <title>Smooth View Quality Oriented Bit Allocation Optimization for 3D Video Coding</title>
-      <link>https://pkummcal.github.io/publication/smooth-view-quality-oriented/</link>
+      <link>http://localhost:1313/publication/smooth-view-quality-oriented/</link>
       <pubDate>Mon, 12 Oct 2015 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/smooth-view-quality-oriented/</guid>
+      <guid>http://localhost:1313/publication/smooth-view-quality-oriented/</guid>
       <description></description>
     </item>
     <item>
       <title>Complexity Reduction in Multi-dictionary Based Single-Image Superresolution Reconstruction via Phase Congruency</title>
-      <link>https://pkummcal.github.io/publication/complexity-reduction-in-multi-dictionary/</link>
+      <link>http://localhost:1313/publication/complexity-reduction-in-multi-dictionary/</link>
       <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/complexity-reduction-in-multi-dictionary/</guid>
+      <guid>http://localhost:1313/publication/complexity-reduction-in-multi-dictionary/</guid>
       <description></description>
     </item>
     <item>
       <title>Phase Congruency Analysis of Down-sampled and Blurring Images for Foreground Extraction</title>
-      <link>https://pkummcal.github.io/publication/phase-congruency-analysis/</link>
+      <link>http://localhost:1313/publication/phase-congruency-analysis/</link>
       <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/phase-congruency-analysis/</guid>
+      <guid>http://localhost:1313/publication/phase-congruency-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Low-cost Memory Data Scheduling Method for Reconfigurable FFT Bit-reversal Circuits</title>
-      <link>https://pkummcal.github.io/publication/low-cost-memory/</link>
+      <link>http://localhost:1313/publication/low-cost-memory/</link>
       <pubDate>Thu, 12 Feb 2015 16:37:31 +0200</pubDate>
-      <guid>https://pkummcal.github.io/publication/low-cost-memory/</guid>
+      <guid>http://localhost:1313/publication/low-cost-memory/</guid>
       <description></description>
     </item>
   </channel>
