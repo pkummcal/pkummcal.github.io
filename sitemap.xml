@@ -2,340 +2,342 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pkummcal.github.io/publication/efficient-rate-control/</loc>
+    <loc>http://localhost:1313/publication/efficient-rate-control/</loc>
     <lastmod>2021-07-30T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/efficient-channel-pruning/</loc>
+    <loc>http://localhost:1313/publication/efficient-channel-pruning/</loc>
     <lastmod>2021-07-30T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-07-30T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2021-07-30T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-07-26/</loc>
+    <loc>http://localhost:1313/post/2021-07-26/</loc>
     <lastmod>2021-07-26T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2021-07-26T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/two-branch-dnn/</loc>
+    <loc>http://localhost:1313/publication/two-branch-dnn/</loc>
     <lastmod>2021-07-26T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-07-25/</loc>
+    <loc>http://localhost:1313/post/2021-07-25/</loc>
     <lastmod>2021-07-25T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-07-24/</loc>
+    <loc>http://localhost:1313/post/2021-07-24/</loc>
     <lastmod>2021-07-24T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/layer-wise-geometry/</loc>
+    <loc>http://localhost:1313/publication/layer-wise-geometry/</loc>
     <lastmod>2021-07-21T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-07-05/</loc>
+    <loc>http://localhost:1313/post/2021-07-05/</loc>
     <lastmod>2021-07-05T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/information-growth-attention-network/</loc>
+    <loc>http://localhost:1313/publication/information-growth-attention-network/</loc>
     <lastmod>2021-07-05T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-06-05/</loc>
+    <loc>http://localhost:1313/post/2021-06-05/</loc>
     <lastmod>2021-06-05T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-05-15/</loc>
+    <loc>http://localhost:1313/post/2021-05-15/</loc>
     <lastmod>2021-05-15T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/unified-information-fusion/</loc>
+    <loc>http://localhost:1313/publication/unified-information-fusion/</loc>
     <lastmod>2021-05-15T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-05-13/</loc>
+    <loc>http://localhost:1313/post/2021-05-13/</loc>
     <lastmod>2021-05-13T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/cross-modality-fusion/</loc>
+    <loc>http://localhost:1313/publication/cross-modality-fusion/</loc>
     <lastmod>2021-05-13T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-05-06/</loc>
+    <loc>http://localhost:1313/post/2021-05-06/</loc>
     <lastmod>2021-05-06T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-04-11/</loc>
+    <loc>http://localhost:1313/post/2021-04-11/</loc>
     <lastmod>2021-04-11T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/deep-image-compression/</loc>
+    <loc>http://localhost:1313/publication/deep-image-compression/</loc>
     <lastmod>2021-04-11T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-03-29/</loc>
+    <loc>http://localhost:1313/post/2021-03-29/</loc>
     <lastmod>2021-03-29T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/fast-view-synthesis/</loc>
+    <loc>http://localhost:1313/publication/fast-view-synthesis/</loc>
     <lastmod>2021-03-29T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/consistent-quality-oriented-rate-control/</loc>
+    <loc>http://localhost:1313/publication/consistent-quality-oriented-rate-control/</loc>
     <lastmod>2021-03-29T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-03-06/</loc>
+    <loc>http://localhost:1313/post/2021-03-06/</loc>
     <lastmod>2021-03-06T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/dynamic-computational-resource-allocation/</loc>
+    <loc>http://localhost:1313/publication/dynamic-computational-resource-allocation/</loc>
     <lastmod>2021-03-06T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/no-reference-deep-quality-assessment/</loc>
+    <loc>http://localhost:1313/publication/no-reference-deep-quality-assessment/</loc>
     <lastmod>2021-03-06T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/new-coding-unit-partitioning/</loc>
+    <loc>http://localhost:1313/publication/new-coding-unit-partitioning/</loc>
     <lastmod>2021-02-26T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-02-15/</loc>
+    <loc>http://localhost:1313/post/2021-02-15/</loc>
     <lastmod>2021-02-15T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2021-01-30/</loc>
+    <loc>http://localhost:1313/post/2021-01-30/</loc>
     <lastmod>2021-01-30T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/efficient-fast-algorithm/</loc>
+    <loc>http://localhost:1313/publication/efficient-fast-algorithm/</loc>
     <lastmod>2021-01-30T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/mmnet/</loc>
+    <loc>http://localhost:1313/publication/mmnet/</loc>
     <lastmod>2020-10-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2020-10-07/</loc>
+    <loc>http://localhost:1313/post/2020-10-07/</loc>
     <lastmod>2020-10-07T15:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2020-07-31/</loc>
+    <loc>http://localhost:1313/post/2020-07-31/</loc>
     <lastmod>2020-07-31T15:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2020-07-14/</loc>
+    <loc>http://localhost:1313/post/2020-07-14/</loc>
     <lastmod>2020-07-14T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2020-07-10/</loc>
+    <loc>http://localhost:1313/post/2020-07-10/</loc>
     <lastmod>2020-07-10T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2020-06-20/</loc>
+    <loc>http://localhost:1313/post/2020-06-20/</loc>
     <lastmod>2020-06-20T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/low-rate-image-compression/</loc>
+    <loc>http://localhost:1313/publication/low-rate-image-compression/</loc>
     <lastmod>2020-06-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/post/2020-05-14/</loc>
+    <loc>http://localhost:1313/post/2020-05-14/</loc>
     <lastmod>2020-05-14T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/blind-image-quality-measurement/</loc>
+    <loc>http://localhost:1313/publication/blind-image-quality-measurement/</loc>
     <lastmod>2020-04-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/multi-objective-optimization-perspective/</loc>
+    <loc>http://localhost:1313/publication/multi-objective-optimization-perspective/</loc>
     <lastmod>2019-11-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/risk-aware-airwise-rank-learning/</loc>
+    <loc>http://localhost:1313/publication/risk-aware-airwise-rank-learning/</loc>
     <lastmod>2019-11-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/ssim-based-global-optimization/</loc>
+    <loc>http://localhost:1313/publication/ssim-based-global-optimization/</loc>
     <lastmod>2019-08-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/unified-no-reference-quality-assessment/</loc>
+    <loc>http://localhost:1313/publication/unified-no-reference-quality-assessment/</loc>
     <lastmod>2019-04-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/data-driven-rate-control/</loc>
+    <loc>http://localhost:1313/publication/data-driven-rate-control/</loc>
     <lastmod>2019-03-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/sparse-bayesian-learning/</loc>
+    <loc>http://localhost:1313/publication/sparse-bayesian-learning/</loc>
     <lastmod>2019-01-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/nonnegative-matrix-factorization/</loc>
+    <loc>http://localhost:1313/publication/nonnegative-matrix-factorization/</loc>
     <lastmod>2018-04-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/joint-machine-learning/</loc>
+    <loc>http://localhost:1313/publication/joint-machine-learning/</loc>
     <lastmod>2017-12-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/generalized-relevance-vector-machine/</loc>
+    <loc>http://localhost:1313/publication/generalized-relevance-vector-machine/</loc>
     <lastmod>2017-09-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/phase-congruency-based-patch-evaluator/</loc>
+    <loc>http://localhost:1313/publication/phase-congruency-based-patch-evaluator/</loc>
     <lastmod>2016-11-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/phase-congruency-based-edge-saliency-detection/</loc>
+    <loc>http://localhost:1313/publication/phase-congruency-based-edge-saliency-detection/</loc>
     <lastmod>2016-10-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/bi-level-optimization/</loc>
+    <loc>http://localhost:1313/publication/bi-level-optimization/</loc>
     <lastmod>2016-09-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/multiscale-phase-congruency-analysis/</loc>
+    <loc>http://localhost:1313/publication/multiscale-phase-congruency-analysis/</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/qubowen/</loc>
+    <loc>http://localhost:1313/member/qubowen/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/pengchanghao/</loc>
+    <loc>http://localhost:1313/member/pengchanghao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/wangchengwei/</loc>
+    <loc>http://localhost:1313/member/wangchengwei/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/zhangchenhao/</loc>
+    <loc>http://localhost:1313/member/zhangchenhao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/yangdinghao/</loc>
+    <loc>http://localhost:1313/member/yangdinghao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/shenfangyu/</loc>
+    <loc>http://localhost:1313/member/shenfangyu/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/liaoguibiao/</loc>
+    <loc>http://localhost:1313/member/liaoguibiao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/yuanhang/</loc>
+    <loc>http://localhost:1313/member/yuanhang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/lihaohui/</loc>
+    <loc>http://localhost:1313/member/lihaohui/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/liuhaoruo/</loc>
+    <loc>http://localhost:1313/member/liuhaoruo/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/zhenghuiming/</loc>
+    <loc>http://localhost:1313/member/zhenghuiming/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/chenjianing/</loc>
+    <loc>http://localhost:1313/member/chenjianing/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/linjunhong/</loc>
+    <loc>http://localhost:1313/member/linjunhong/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/lijunlin/</loc>
+    <loc>http://localhost:1313/member/lijunlin/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/zhengkaiyu/</loc>
+    <loc>http://localhost:1313/member/zhengkaiyu/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/wangkangli/</loc>
+    <loc>http://localhost:1313/member/wangkangli/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/sunshangkun/</loc>
+    <loc>http://localhost:1313/member/sunshangkun/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/xieliang/</loc>
+    <loc>http://localhost:1313/member/xieliang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/wanglinhui/</loc>
+    <loc>http://localhost:1313/member/wanglinhui/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/zhoulinjie/</loc>
+    <loc>http://localhost:1313/member/zhoulinjie/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/taolvfang/</loc>
+    <loc>http://localhost:1313/member/taolvfang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/</loc>
+    <loc>http://localhost:1313/member/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/yiqianxi/</loc>
+    <loc>http://localhost:1313/member/yiqianxi/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/lishihao/</loc>
+    <loc>http://localhost:1313/member/lishihao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/luoshuqing/</loc>
+    <loc>http://localhost:1313/member/luoshuqing/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/fansonglin/</loc>
+    <loc>http://localhost:1313/member/fansonglin/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/liuwang/</loc>
+    <loc>http://localhost:1313/member/liuwang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/chengwei/</loc>
+    <loc>http://localhost:1313/member/chengwei/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/gaowei/</loc>
+    <loc>http://localhost:1313/member/gaowei/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/gaowenxu/</loc>
+    <loc>http://localhost:1313/member/gaowenxu/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/liangxiaoyu/</loc>
+    <loc>http://localhost:1313/member/liangxiaoyu/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/zhangxiaoyu/</loc>
+    <loc>http://localhost:1313/member/zhangxiaoyu/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/luxijing/</loc>
+    <loc>http://localhost:1313/member/luxijing/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/mouxingming/</loc>
+    <loc>http://localhost:1313/member/mouxingming/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/guoyang/</loc>
+    <loc>http://localhost:1313/member/guoyang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/wangyang/</loc>
+    <loc>http://localhost:1313/member/wangyang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/sunyangfan/</loc>
+    <loc>http://localhost:1313/member/sunyangfan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/liyao/</loc>
+    <loc>http://localhost:1313/member/liyao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/liyuan/</loc>
+    <loc>http://localhost:1313/member/liyuan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/yeyuqi/</loc>
+    <loc>http://localhost:1313/member/yeyuqi/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/wuyuyang/</loc>
+    <loc>http://localhost:1313/member/wuyuyang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/yangzetao/</loc>
+    <loc>http://localhost:1313/member/yangzetao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/caizhanyuan/</loc>
+    <loc>http://localhost:1313/member/caizhanyuan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/qizhiyang/</loc>
+    <loc>http://localhost:1313/member/qizhiyang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/yuzhuozhen/</loc>
+    <loc>http://localhost:1313/member/yuzhuozhen/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/zhangzijian/</loc>
+    <loc>http://localhost:1313/member/zhangzijian/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/member/guozixuan/</loc>
+    <loc>http://localhost:1313/member/guozixuan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/ssim-based-game-theory/</loc>
+    <loc>http://localhost:1313/publication/ssim-based-game-theory/</loc>
     <lastmod>2016-06-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/dct-coefficient-distribution/</loc>
+    <loc>http://localhost:1313/publication/dct-coefficient-distribution/</loc>
     <lastmod>2016-01-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/rate-distortion-optimized-inter-view/</loc>
+    <loc>http://localhost:1313/publication/rate-distortion-optimized-inter-view/</loc>
     <lastmod>2015-12-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/smooth-view-quality-oriented/</loc>
+    <loc>http://localhost:1313/publication/smooth-view-quality-oriented/</loc>
     <lastmod>2015-10-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/complexity-reduction-in-multi-dictionary/</loc>
+    <loc>http://localhost:1313/publication/complexity-reduction-in-multi-dictionary/</loc>
     <lastmod>2015-07-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/phase-congruency-analysis/</loc>
+    <loc>http://localhost:1313/publication/phase-congruency-analysis/</loc>
     <lastmod>2015-07-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/low-cost-memory/</loc>
+    <loc>http://localhost:1313/publication/low-cost-memory/</loc>
     <lastmod>2015-02-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/approach/</loc>
+    <loc>http://localhost:1313/approach/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/researchprojects/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/about/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/categories/</loc>
+    <loc>http://localhost:1313/codes/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/codes/</loc>
+    <loc>http://localhost:1313/datasets/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/datasets/</loc>
+    <loc>http://localhost:1313/joinus/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/joinus/</loc>
+    <loc>http://localhost:1313/patent-standardization/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/patent-standardization/</loc>
+    <loc>http://localhost:1313/researchprojects/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/tags/</loc>
+    <loc>http://localhost:1313/resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
