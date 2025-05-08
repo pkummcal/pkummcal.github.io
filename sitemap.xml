@@ -11,9 +11,6 @@
     <loc>https://pkummcal.github.io/</loc>
     <lastmod>2021-07-30T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://pkummcal.github.io/publication/</loc>
-    <lastmod>2021-07-30T16:37:31+02:00</lastmod>
-  </url><url>
     <loc>https://pkummcal.github.io/post/2021-07-26/</loc>
     <lastmod>2021-07-26T16:50:58+02:00</lastmod>
   </url><url>
@@ -212,6 +209,9 @@
     <loc>https://pkummcal.github.io/member/xieliang/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
+    <loc>https://pkummcal.github.io/member/chenguanzhou/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
     <loc>https://pkummcal.github.io/member/wanglinhui/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
@@ -332,12 +332,20 @@
   </url><url>
     <loc>https://pkummcal.github.io/joinus/</loc>
   </url><url>
-    <loc>https://pkummcal.github.io/patent-standardization/</loc>
+    <loc>https://pkummcal.github.io/news/</loc>
+  </url><url>
+    <loc>https://pkummcal.github.io/patent/</loc>
+  </url><url>
+    <loc>https://pkummcal.github.io/publication/</loc>
   </url><url>
     <loc>https://pkummcal.github.io/researchprojects/</loc>
   </url><url>
     <loc>https://pkummcal.github.io/resources/</loc>
   </url><url>
+    <loc>https://pkummcal.github.io/standardization/</loc>
+  </url><url>
     <loc>https://pkummcal.github.io/tags/</loc>
+  </url><url>
+    <loc>https://pkummcal.github.io/team/</loc>
   </url>
 </urlset>
