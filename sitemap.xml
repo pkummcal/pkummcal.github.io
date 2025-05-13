@@ -339,6 +339,8 @@
   </url><url>
     <loc>https://pkummcal.github.io/patent/</loc>
   </url><url>
+    <loc>https://pkummcal.github.io/people/</loc>
+  </url><url>
     <loc>https://pkummcal.github.io/publications/</loc>
   </url><url>
     <loc>https://pkummcal.github.io/researchprojects/</loc>
@@ -348,7 +350,5 @@
     <loc>https://pkummcal.github.io/standardization/</loc>
   </url><url>
     <loc>https://pkummcal.github.io/tags/</loc>
-  </url><url>
-    <loc>https://pkummcal.github.io/team/</loc>
   </url>
 </urlset>
